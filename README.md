@@ -37,7 +37,7 @@ sudo yum install git curl jq tar bc      # CentOS/RHEL
 Configuración Inicial
 bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/scripts-automatizados.git
+git clone https://github.com/ChrisDuran19/Scripts_automatizados.git
 cd scripts-automatizados
 
 # Configurar credenciales (primera vez)
