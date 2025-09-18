@@ -3,7 +3,7 @@
 # ============================================================================
 # AUTOMATIZADOR DE ENTORNO DE DESARROLLO MULTI-DISTRO
 # Soporta: Ubuntu, Debian, CentOS, RHEL, Fedora, openSUSE, Arch, Alpine, Oracle
-# Autor: Script de Automatización
+# Autor: Cristian David Duran Grimaldo
 # Versión: 2.1 - CARPETA EN /home/USUARIO/despliegues
 # ============================================================================
 
